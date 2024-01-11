@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hugie999
-- 👀 I’m interested in [python]
-- 🌱 I’m currently learning [how to accetualy code]
-
+me after createing the most unoptimised code ever made
 
 
 <!---
